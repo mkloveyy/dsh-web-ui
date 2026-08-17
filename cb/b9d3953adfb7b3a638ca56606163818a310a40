@@ -1,0 +1,21 @@
+packages/dsh-aionui-panel/src/client/index.ts
+  s_0a6928df05a7df::t_8a32d40350f0bc 184-190
+packages/dsh-aionui-panel/tests/stores.spec.ts
+  s_0a6928df05a7df::t_21b0f2e7fcec47 207-215
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "cbb9d3953adfb7b3a638ca56606163818a310a40",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
