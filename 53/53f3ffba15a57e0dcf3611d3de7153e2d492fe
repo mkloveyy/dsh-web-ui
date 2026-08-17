@@ -1,0 +1,21 @@
+packages/dsh-aionui-panel/src/client/preview/content.tsx
+  s_0a6928df05a7df::t_703a1357f6807b 161
+packages/dsh-aionui-panel/tests/preview-split-text.spec.tsx
+  s_0a6928df05a7df::t_3c12761113ead3 1-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "5353f3ffba15a57e0dcf3611d3de7153e2d492fe",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
