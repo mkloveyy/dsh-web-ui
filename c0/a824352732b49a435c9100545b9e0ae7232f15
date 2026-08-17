@@ -1,0 +1,22 @@
+packages/dsh-aionui-panel/tests/use-resizable-split.spec.ts
+  s_0a6928df05a7df::t_0fdda685f3d333 1-23
+packages/dsh-aionui-panel/src/client/hooks/useResizableSplit.ts
+  s_0a6928df05a7df::t_5574a047cfa353 89-97,101
+  s_0a6928df05a7df::t_b0da7df0c2430c 33-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "c0a824352732b49a435c9100545b9e0ae7232f15",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "ma_k <ma_k@trip.com>"
+    }
+  }
+}
