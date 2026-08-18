@@ -1,0 +1,21 @@
+packages/dsh-ssh/src/engine/connection-pool.ts
+  s_0a6928df05a7df::t_b06382997b6cbd 143-162,164-170
+packages/dsh-ssh/tests/connection-pool.test.ts
+  s_0a6928df05a7df::t_ec25f84c3591ac 211-239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "63c6716c431c96764db8ac21c45516e8bde89914",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
