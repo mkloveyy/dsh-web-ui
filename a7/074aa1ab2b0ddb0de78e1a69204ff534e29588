@@ -1,0 +1,24 @@
+packages/dsh-remote-web-ui/tests/tunnel.spec.ts
+  s_0a6928df05a7df::t_0b62fd7c22f39a 132-165
+packages/dsh-remote-web-ui/src/tunnel.ts
+  s_0a6928df05a7df::t_e2b060125d1e30 89-91
+  s_0a6928df05a7df::t_ac9109cd33df51 160,166
+  s_0a6928df05a7df::t_986c6d4116001a 189
+  s_0a6928df05a7df::t_076b08c0f8d105 129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "a7074aa1ab2b0ddb0de78e1a69204ff534e29588",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
