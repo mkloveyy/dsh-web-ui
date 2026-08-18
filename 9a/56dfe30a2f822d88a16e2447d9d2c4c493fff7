@@ -1,0 +1,23 @@
+packages/dsh-pet/src/registry.ts
+  s_0a6928df05a7df::t_5456152636dc65 413-414,416-424
+packages/dsh-pet/src/registry.test.ts
+  s_0a6928df05a7df::t_7854fdb700698e 184-210
+  s_0a6928df05a7df::t_462b6d2791c735 2
+  s_0a6928df05a7df::t_259f75ff2281f8 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "9a56dfe30a2f822d88a16e2447d9d2c4c493fff7",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
