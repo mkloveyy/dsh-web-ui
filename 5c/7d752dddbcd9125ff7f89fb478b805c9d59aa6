@@ -1,0 +1,23 @@
+packages/dsh-remote-web-ui/tests/workspace-view.spec.tsx
+  s_0a6928df05a7df::t_806c85fb7d1968 1-37
+packages/dsh-remote-web-ui/src/mobile/views/WorkspaceView.tsx
+  s_0a6928df05a7df::t_903191c1d9bb68 64
+  s_0a6928df05a7df::t_df9d64112a486e 30-31
+  s_0a6928df05a7df::t_f2761a84d7d137 53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "5c7d752dddbcd9125ff7f89fb478b805c9d59aa6",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-5e9quh5a"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
