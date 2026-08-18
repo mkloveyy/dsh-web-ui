@@ -1,0 +1,25 @@
+packages/dsh-tool-describe-image/src/attach-routes.ts
+  s_0a6928df05a7df::t_eb60413ab6113e 24,27-37
+  s_0a6928df05a7df::t_254b039a1bb235 307-308,310,313
+packages/dsh-tool-describe-image/tests/attach-routes.spec.ts
+  s_0a6928df05a7df::t_da78c11c134482 13
+  s_0a6928df05a7df::t_dbcda17ccb2269 292,304
+  s_0a6928df05a7df::t_cfbbb83fd3cf11 333-344
+  s_0a6928df05a7df::t_97a5e711aad342 75-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "2dbcc055ad585a5627f0bca6832735d6fef18f9d",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
