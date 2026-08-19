@@ -1,0 +1,26 @@
+packages/dsh-git-graph/src/client/graph/GraphDialog.tsx
+  s_0a6928df05a7df::t_d3c4fef0b33b30 90-96
+packages/dsh-git-graph/src/host/routes.ts
+  s_0a6928df05a7df::t_d1567d11428094 251-253
+packages/dsh-git-graph/tests/client.spec.tsx
+  s_0a6928df05a7df::t_fc136f6a89aa1e 453-475,490-493
+  s_0a6928df05a7df::t_c128c9adca58d5 476-489
+packages/dsh-git-graph/tests/routes.spec.ts
+  s_0a6928df05a7df::t_3ac391395f8a2c 166-183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "2c55309eac901b6536fe9b8a41719bb9d9f82485",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
