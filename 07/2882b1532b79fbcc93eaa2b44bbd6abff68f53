@@ -1,0 +1,22 @@
+packages/dsh-git-graph/tests/core.spec.ts
+  s_0a6928df05a7df::t_d5d7fbbbf52d2d 35-39
+  s_0a6928df05a7df::t_e9f2026909407c 66-69
+packages/dsh-git-graph/src/core/types.ts
+  s_0a6928df05a7df::t_b7d4336a149515 122-123,127,159,163-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "072882b1532b79fbcc93eaa2b44bbd6abff68f53",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
