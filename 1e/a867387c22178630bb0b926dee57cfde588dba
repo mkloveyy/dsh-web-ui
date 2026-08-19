@@ -1,0 +1,22 @@
+packages/dsh-task-board/tests/controller.spec.ts
+  s_0a6928df05a7df::t_ee5b7b54d32b89 565-606,608-610
+  s_0a6928df05a7df::t_fd5397492ac5eb 607
+packages/dsh-task-board/src/core/controller.ts
+  s_0a6928df05a7df::t_f5e66209dafcf8 512-520
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "1ea867387c22178630bb0b926dee57cfde588dba",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
