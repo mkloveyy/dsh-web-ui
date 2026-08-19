@@ -1,0 +1,25 @@
+packages/dsh-remote-web-ui/tests/mobile-api.spec.ts
+  s_0a6928df05a7df::t_333524594bed2a 141-162
+packages/dsh-remote-web-ui/src/mobile-api.ts
+  s_0a6928df05a7df::t_b65ce1b62e2e94 262-265
+packages/dsh-remote-web-ui/src/mobile/views/SessionListView.tsx
+  s_0a6928df05a7df::t_16ea95a833beb4 54-57
+  s_0a6928df05a7df::t_ffd6c32abc64bb 71
+  s_0a6928df05a7df::t_f34d1aecc4b30d 120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "d4656963da8b32995ba241c007141cb3b9ca2b2f",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
