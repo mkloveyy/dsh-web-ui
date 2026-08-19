@@ -1,0 +1,26 @@
+packages/dsh-ssh/src/client/panel/HostFormDialog.tsx
+  s_0a6928df05a7df::t_6ae0a7fbb2a7e9 95-100
+packages/dsh-ssh/src/client/locales.ts
+  s_0a6928df05a7df::t_75e759afbd8ad3 63
+  s_0a6928df05a7df::t_f0a7e972a44dc0 207
+packages/dsh-ssh/src/client/api.ts
+  s_0a6928df05a7df::t_30ba4eb97c9c9f 233-235
+  s_0a6928df05a7df::t_29a17c5e001e8b 37-47
+  s_0a6928df05a7df::t_850409a27422c4 284-285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "0a8834bd1c306890826512e1bf14411b6b054871",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
