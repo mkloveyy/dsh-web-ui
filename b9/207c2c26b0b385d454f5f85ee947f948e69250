@@ -1,0 +1,25 @@
+scripts/export-official-facade
+  s_0a6928df05a7df::t_1ff2efe0d747bf 36-44
+scripts/pr-review.mjs
+  s_0a6928df05a7df::t_5f1051e832715a 235
+scripts/banner/shoot.mjs
+  s_0a6928df05a7df::t_359c96d9c41aa4 33
+scripts/pr-review.test.mjs
+  s_0a6928df05a7df::t_57e4add6cdb028 118-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "b9207c2c26b0b385d454f5f85ee947f948e69250",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
