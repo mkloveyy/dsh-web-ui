@@ -1,0 +1,39 @@
+packages/dsh-task-board/src/client/settings-form.ts
+  s_0a6928df05a7df::t_fb0f7cfcac9898 336-340,361-362
+  s_0a6928df05a7df::t_46582f640dde2b 365
+packages/dsh-tool-describe-image/src/client/settings-form.ts
+  s_0a6928df05a7df::t_46582f640dde2b 365
+  s_0a6928df05a7df::t_fb0f7cfcac9898 336-340,361-362
+packages/dsh-remote-web-ui/src/client/settings-form.ts
+  s_0a6928df05a7df::t_fb0f7cfcac9898 336-340,361-362
+  s_0a6928df05a7df::t_46582f640dde2b 365
+packages/dsh-aionui-panel/src/client/settings-form.ts
+  s_0a6928df05a7df::t_46582f640dde2b 365
+  s_0a6928df05a7df::t_fb0f7cfcac9898 336-340,361-362
+packages/dsh-community-plugins/src/client/settings-form.ts
+  s_0a6928df05a7df::t_46582f640dde2b 365
+  s_0a6928df05a7df::t_fb0f7cfcac9898 336-340,361-362
+shared/tests/settings-form.spec.ts
+  s_0a6928df05a7df::t_7ec089160e42ce 173-199
+shared/client/settings/settings-form.ts
+  s_0a6928df05a7df::t_e06155f99270aa 335-339,360-361,364
+packages/dsh-pet/src/client/settings-form.ts
+  s_0a6928df05a7df::t_46582f640dde2b 365
+  s_0a6928df05a7df::t_fb0f7cfcac9898 336-340,361-362
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "967d9a59e37c546e024ac7fd3376d40ab08499ca",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
