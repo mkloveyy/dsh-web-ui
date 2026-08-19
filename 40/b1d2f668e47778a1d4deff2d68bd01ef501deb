@@ -1,0 +1,19 @@
+packages/dsh-tool-describe-image/src/vision-client.ts
+  s_0a6928df05a7df::t_026a33282d9a47 132-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "40b1d2f668e47778a1d4deff2d68bd01ef501deb",
+  "prompts": {},
+  "sessions": {
+    "s_0a6928df05a7df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b8651d6-c790-4fec-891b-80a76e65fe7b",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "mkloveyy <halfpig0627@163.com>"
+    }
+  }
+}
